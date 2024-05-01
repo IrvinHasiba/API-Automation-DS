@@ -1,5 +1,5 @@
 # API-Automation-DS
-using https://reqres.in
+using https://documenter.getpostman.com/view/4012288/TzK2bEa8
 ## SS Reporting
 * Add User
   ![ADD USER](https://github.com/NYANGG12/API-Automation-DS/blob/main/SS/ADD%20USER.png)
